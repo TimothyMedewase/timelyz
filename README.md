@@ -91,7 +91,10 @@ The Time Series Insights application employs cutting-edge AI algorithms, such as
 
 We take pride in the performance of our Time Series Insights application. The AI algorithms have been fine-tuned and optimized to deliver accurate results within a reasonable processing time.
 
-For large-scale deployment, we recommend using a powerful server or cloud infrastructure to handle extensive time series datasets and ensure real-time monitoring. Feel free to preview the app [here](https://timelyz.netlify.app/).
+For large-scale deployment, we recommend using a powerful server or cloud infrastructure to handle extensive time series datasets and ensure real-time monitoring. Feel free to preview the app <a href="https://timelyz.netlify.app/" target="_blank" rel="noopener">here.</a>
+
+
+
 
 ## Contributing
 
