@@ -3,13 +3,14 @@ import './App.css';
 
 import Header from './Components/Header';
 import MyRadioButton from './Components/RadioButton';
-import ChartViewer from './Components/ChartViewer';
+import Charts from './Components/Charts';
 import Footer from './Components/Footer';  
 
 import AnalysisSettings from './Components/AnalysisSettings';
-import Dashboard from './Components/Dashboard';
+
 import DataImport from './Components/DataImport';
 import DataVisualization from './Components/Visualization';
+
 
 
 
@@ -27,8 +28,7 @@ function App() {
       <Header />
       <DataImport />
       <AnalysisSettings />
-      <Dashboard />
-      <ChartViewer />
+      <Charts />
       <Footer />
     </div>
   );

@@ -1,0 +1,18 @@
+.inside-bordered-table {
+border-collapse: separate; /* Optional, to collapse borders and avoid double lines */
+}
+
+.inside-bordered-table th, .inside-bordered-table td {
+border: 3px solid #23931b; /* Add borders around table cells */
+padding: 5px;
+}
+
+/* Add inside borders (between cells) */
+.inside-bordered-table tr:not(:last-child) td {
+border-bottom: 3px solid #23931b;
+}
+
+.inside-bordered-table td:not(:last-child) {
+border-right: 3px solid #23931b;
+}
+  
