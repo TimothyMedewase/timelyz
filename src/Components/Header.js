@@ -4,9 +4,9 @@ function Header() {
     return (
             <div>
                 <header style={{display:"flex"}}>
-                    <img src="./assets/comp_logo.png" alt="company logo" style={{height:70, width:90}}/>
-                    <h1 style={{fontWeight:'bold',fontSize:48,marginTop:5}}
-                    >Time Series Analysis</h1>
+                    <img src=".\assets\TEE MUSIK LOGO.png" alt="company logo" style={{height:90, width:100}}/>
+                    <h1 style={{fontWeight:'bold',fontSize:54,marginTop:25, marginLeft: 400, color: "green", fontFamily:"cursive"}}
+                    >TEEMUSIK</h1>
                 </header>
                 <hr style={{marginTop:0}}/>
             </div>

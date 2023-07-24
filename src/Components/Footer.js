@@ -6,10 +6,10 @@ function Footer() {
     <MDBFooter className='text-center text-white' style={{ backgroundColor: '#808080' }}>
       <MDBContainer className='p-4'></MDBContainer>
 
-      <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
-        © 2023 Copyright:
+      <div className='text-center p-3' style={{ backgroundColor: ' rgba(0, 255, 0, 0.3)' }}>
+        © 2023 copyright: 
         <a className='text-white' href='#'>
-          Timely.com
+            teemusik.com
         </a>
       </div>
     </MDBFooter>
