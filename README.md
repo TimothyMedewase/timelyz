@@ -1,9 +1,9 @@
 # SPOTIFY MUSIC ANALYZER
 
 
-![Man holding a phone with Spotify app](https://images.hindustantimes.com/img/2022/12/13/1600x900/SPOTIFY-TECH-RESULTS--0_1658939089244_1658939089244_1670941915454_1670941915454.JPG =100*250)
 
 
+<img src="https://images.hindustantimes.com/img/2022/12/13/1600x900/SPOTIFY-TECH-RESULTS--0_1658939089244_1658939089244_1670941915454_1670941915454.JPG" width="300">
 ## Table of Contents
 
 1. [Introduction](#introduction)
