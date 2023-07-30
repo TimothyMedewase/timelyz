@@ -1,6 +1,6 @@
-# Time Series Insights with AI for Financial Company
+# SPOTIFY MUSIC ANALYZER
 
-![image](https://github.com/luckychitundu/timely/assets/87910852/1c233d93-de6c-45b7-89ea-c647f0ecaf43)
+https://images.hindustantimes.com/img/2022/12/13/1600x900/SPOTIFY-TECH-RESULTS--0_1658939089244_1658939089244_1670941915454_1670941915454.JPG
 
 
 
